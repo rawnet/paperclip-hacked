@@ -1,0 +1,1 @@
+This plugin has been hacked so that the Attachment class is now called Attachmenta so it will not get erroneously loaded instead of cms_admin's Attachment class
